@@ -6,8 +6,7 @@
 4. DataSource+JDBC+SQL
 5. AOP+Transaction+JTA
 6. JPA
-
-==================
+-------
 프로젝트를 진행하면서 물어보는 방법
 issue를 눌러서 해당 코드와 설명을 적어주시면 됩니다.
 
